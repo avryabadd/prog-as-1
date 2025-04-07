@@ -76,5 +76,7 @@ int main() {
         printf("\n");
     }
 
+    printf("\nTotal number of calculations: %d\n", calculationCount);
+
     return 0;
 }
